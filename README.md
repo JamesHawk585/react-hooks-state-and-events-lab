@@ -50,7 +50,7 @@ your state variable:
 </div>
 ```
 
-### Add to Cart []
+### Add to Cart [x]
 
 In the `Item` component, when the user clicks the `<button>` element, the item
 should be added to their virtual cart. The way we'll show the user that the item
