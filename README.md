@@ -26,7 +26,7 @@ tests.
 
 ## Deliverables
 
-### Dark Mode Toggle
+### Dark Mode Toggle []
 
 In the `App` component, there is a button for toggling between dark mode and
 light mode. Using the `useState` hook, create a state variable in the `App`
@@ -50,7 +50,7 @@ your state variable:
 </div>
 ```
 
-### Add to Cart
+### Add to Cart []
 
 In the `Item` component, when the user clicks the `<button>` element, the item
 should be added to their virtual cart. The way we'll show the user that the item
@@ -71,7 +71,7 @@ to Cart", and if the item _is_ in the cart, the `<button>` element's text should
 read "Remove From Cart". Naturally, you'll also need to add state to the `Item`
 component to solve this deliverable!
 
-### Filter
+### Filter []
 
 In the `ShoppingList` component, there is a `<select>` element that will allow
 us to **filter** the list of items by category.
