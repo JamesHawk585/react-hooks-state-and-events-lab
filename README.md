@@ -26,7 +26,7 @@ tests.
 
 ## Deliverables
 
-### Dark Mode Toggle []
+### Dark Mode Toggle [x]
 
 In the `App` component, there is a button for toggling between dark mode and
 light mode. Using the `useState` hook, create a state variable in the `App`
